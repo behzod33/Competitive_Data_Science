@@ -36,6 +36,7 @@ notebooks/runs
 notebooks/src
 notebooks/wandb
 Parsing/
+results/
 *Solution.csv
 _*
 y_*
